@@ -1,0 +1,8 @@
+# robots.txt for rosyid-snack
+# Tujuan: Mengizinkan seluruh mesin pencari mengindeks semua halaman situs
+# serta mengarahkan mereka ke sitemap untuk membantu proses crawling
+
+User-agent: *
+Allow: /
+
+Sitemap: https://rosyid250602.github.io/rosyid-snack/sitemap.xml
